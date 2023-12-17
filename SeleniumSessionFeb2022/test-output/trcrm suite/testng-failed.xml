@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [trcrm suite]" parallel="tests">
+  <test thread-count="2" name="signup test(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://trcrm.com/login/en"/>
+    <classes>
+      <class name="com.qa.tests.SignUpTest">
+        <methods>
+          <include name="signUpLinkTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.SignUpTest -->
+    </classes>
+  </test> <!-- signup test(failed) -->
+</suite> <!-- Failed suite [trcrm suite] -->

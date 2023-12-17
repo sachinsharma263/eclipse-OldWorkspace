@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="ircrm regression test" thread-count="2" parallel="tests">
+  <test name="login test" verbose="4" >
+  <parameter name="browserName" value="firefoxd"/> 
+  <parameter name="url" value="https://trcrm.com/login/en"/> 
+  <parameter name="username" value="sachinsharma263@gmail.com"/> 
+  <parameter name="password" value="Bholababa@1"/>
+    <classes>
+      <class name="com.test.LoginTest"/>
+	
+    </classes>
+    </test>
+   <test name="signup test" verbose="4" >
+    <parameter name="browserName" value="chrome"/>
+     <parameter name="url" value="https://trcrm.com/login/en"/> 
+    <classes>
+      
+       <class name="com.test.SignUpNowTest"/>
+       
+    </classes>
+   </test>
+</suite> 

@@ -1,0 +1,17 @@
+package com.qa.stringconcept;
+
+public class StringBufferConcept {
+
+	public static void main(String[] args) {
+
+		StringBuffer sb = new StringBuffer("naveen");
+		System.out.println(sb.capacity());
+		
+		System.out.println(sb.length());
+		
+		StringBuffer sb2 = new StringBuffer();
+		
+		
+	}
+
+}

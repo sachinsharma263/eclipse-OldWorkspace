@@ -1,0 +1,17 @@
+package com.qa.javasessions;
+
+public class CommandLineArguments {
+
+	public static void main(String[] args) {//string array parameter, when we execute java code java or jvm will search for main 
+		//method which is public static void and take one input parameter- string array parameter
+		
+		System.out.println(args.length);
+		//args[0]="naveen";
+		String[] arg = null;
+		//System.out.println(arg.length);
+		
+		System.out.println(args[0]);
+		System.out.println(args[1]);
+	}
+
+}

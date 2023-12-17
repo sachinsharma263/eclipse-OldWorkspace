@@ -1,0 +1,39 @@
+package com.qa.collection;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class HashSetConcept {
+
+	public static void main(String[] args) {
+
+		Set<String> set = new HashSet<String>();
+		System.out.println(set.size());
+
+		set.add("Adobe");
+		set.add("Microsoft");
+		set.add("Google");
+		System.out.println(set.add("TCS"));
+
+		System.out.println(set.size());
+
+		System.out.println(set.add("TCS"));
+		
+		set.add(null);
+		
+		System.out.println(set.contains("TCS"));
+
+		System.out.println(set);
+
+		for (String s : set) {
+			System.out.println(s);
+		}
+		
+		set.remove("Adobe");
+		System.out.println(set.size());
+		System.out.println(set);
+		
+
+	}
+
+}

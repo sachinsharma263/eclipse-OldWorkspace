@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="trcrm regression Suite" thread-count="2" parallel="tests">
+	<test name="login Test" verbose="2" >
+		<classes>
+			<class name="com.qa.tests.LoginPageTest" />
+		</classes>
+
+	</test>
+
+	<test name="sign up Test" verbose="2">
+		<classes>
+			<class name="com.qa.tests.SignUpTest" />
+		</classes>
+
+	</test>
+</suite>

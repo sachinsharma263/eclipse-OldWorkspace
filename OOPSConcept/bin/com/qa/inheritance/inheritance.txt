@@ -1,0 +1,34 @@
+inheriting something from parent
+inheriting property from parent,there must be some relationship between you and that person and that relationship is parent and child
+getting some properties from parent but there are certain rules are defined.
+
+in java inheritance means inheriting properties from a parent class
+
+let say Car is a class having some properties like start,stop
+
+Bmw,Audi,Honda is also class and child of Car.
+we can say Bmw,Audi and Honda are Cars.All basic properties a Car have, Bmw audi and Honda also have
+
+Advantage of creating relationship btw Car and Bmw,Audi and Honda-->using inheritance is reusability
+if inheritance is not there than same repetative code we have to write-->those features inside Car we have again define in Bmw 
+what if Bmw is creating a seperate Car concept
+
+a child Bmw can inherit all properties from parent but at the same time can have its own properties.
+
+In inheritance a child can inherit properties from parent
+a parent cant inherit any property from child
+A grandchild can inherit from Grand parent
+Siblings cant inherit property from each other
+Multiple inheritance not allowed at class level,a class cant have 2 or more parents
+Diamnond problem-can be solved by interface
+
+Car can also have parent Vehicle
+
+
+Method Overriding-
+When a method in a subclass has the same name, same parameters or signature, and same return type(or sub-type) as a method in its super-class,
+ then the method in the subclass is said to override the method in the super-class.
+ Overriding Method must have the same return type (or subtype)
+From Java 5.0 onwards, it is possible to have a different return type for an overridden method in the child class provided that the return type of
+ child class be the same as a subtype of the overridden method’s return type of the base class. This type of return type is called a covariant return type.
+https://techvidvan.com/tutorials/java-method-overriding/

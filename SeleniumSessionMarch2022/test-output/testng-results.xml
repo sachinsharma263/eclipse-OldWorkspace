@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49646" started-at="2022-05-09T16:54:16Z" finished-at="2022-05-09T16:55:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49646" started-at="2022-05-09T16:54:16Z" finished-at="2022-05-09T16:55:06Z">
+      <class name="com.qa.dataprovider.DataProviderConcept">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="setUp" is-config="true" duration-ms="15011" started-at="2022-05-09T16:54:18Z" finished-at="2022-05-09T16:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="loginPageTest" duration-ms="11020" started-at="2022-05-09T16:54:33Z" data-provider="dp" finished-at="2022-05-09T16:54:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachinsharma263@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[swift2994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="tearDown" is-config="true" duration-ms="1007" started-at="2022-05-09T16:54:44Z" finished-at="2022-05-09T16:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="setUp" is-config="true" duration-ms="8927" started-at="2022-05-09T16:54:45Z" finished-at="2022-05-09T16:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="loginPageTest" duration-ms="11122" started-at="2022-05-09T16:54:54Z" data-provider="dp" finished-at="2022-05-09T16:55:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachinsharma263@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[swift2994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.dataprovider.DataProviderConcept@56ef9176]" name="tearDown" is-config="true" duration-ms="927" started-at="2022-05-09T16:55:05Z" finished-at="2022-05-09T16:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.dataprovider.DataProviderConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

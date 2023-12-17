@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [ircrm regression test]" parallel="tests">
+  <test thread-count="2" name="login test(failed)" parallel="tests">
+    <parameter name="password" value="Bholababa@1"/>
+    <parameter name="browserName" value="firefoxd"/>
+    <parameter name="url" value="https://trcrm.com/login/en"/>
+    <parameter name="username" value="sachinsharma263@gmail.com"/>
+    <classes>
+      <class name="com.test.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signUpLinkTest"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+          <include name="pageTitleTest"/>
+        </methods>
+      </class> <!-- com.test.LoginTest -->
+    </classes>
+  </test> <!-- login test(failed) -->
+</suite> <!-- Failed suite [ircrm regression test] -->

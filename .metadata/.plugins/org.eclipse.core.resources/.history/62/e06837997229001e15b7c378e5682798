@@ -1,0 +1,64 @@
+package com.qa.collection;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Set;
+
+/*
+ * in set insertion order is not maintained/preserved,no sequence is maintained
+ * duplicate values are not allowed in set.if we try to add duplicate value then no compile and runtime exception.add method will return false.
+ * set remains unchanged
+ * we can add null value in set
+ * 
+ * arraylist where insertion order maintain is important,duplicate values are required
+ * when insertion order is not important and duplicate are not allowed only unique values required then go for set
+ * 
+ */
+public class HashSetConcept {
+
+	public static void main(String[] args) {
+
+		Set<String> set = new HashSet<String>();
+		HashSet<String> set2 = new HashSet<String>();
+
+		System.out.println(set.size());
+
+		set.add("Adobe");
+		set.add("Microsoft");
+		set.add("Google");
+		System.out.println(set.add("TCS"));
+
+		System.out.println(set.size());
+
+		System.out.println(set.add("TCS"));
+
+		set.add(null);
+
+		System.out.println(set.size());
+
+		System.out.println(set.contains("TCS"));
+
+		System.out.println(set);
+
+		for (String s : set) {
+			System.out.println(s);
+		}
+
+		set.remove("Adobe");
+		System.out.println(set.size());
+		System.out.println(set);
+
+		Iterator<String> itr = set.iterator();
+		while (itr.hasNext()) {
+			String val = itr.next();
+			System.out.println(val);
+
+		}
+		List<String> list=new ArrayList<>(set);
+		System.out.println(list.size());
+
+	}
+
+}

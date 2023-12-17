@@ -1,0 +1,48 @@
+package com.qa.interfaceconcept;
+
+public interface WebDriver {
+	
+//	public WebDriver()
+//	{
+//	Interfaces cannot have constructors	
+//	}
+
+	int time_out=10;//by default variables inside interface are public static final
+	public void launchBrowser();
+	
+	public void getTitle();
+	
+	public void click();
+	
+	public void closeBrowser();
+
+	// no static method in interface
+	// public static void test(); we cannot overide static
+
+	// no final method
+	// public final void test();
+	// in interface final and static are not allowed for methods. for final method
+	// no one can override and static cant be override
+	
+	
+	/*
+	 * cannot create object of an interface
+	 * only method decleration- method prototype-no method body
+	 * no static and final method
+	 * by default variables inside interface are public static final
+	 * jdk 1.8 interface can have default method with body
+	 * we can have static method inside interface
+	 */
+	default void run() {
+		System.out.println("WebDriver--run");
+	}
+	public static void visual() {
+		System.out.println("WebDriver--visual");
+	}
+
+	public void launchUrl();
+	
+	
+	
+	
+}

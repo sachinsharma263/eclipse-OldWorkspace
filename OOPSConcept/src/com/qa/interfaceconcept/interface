@@ -1,0 +1,28 @@
+Diamond problem-a class cant have more than one parent,multiple parents are not allowed in java at class level
+class to class inheritance-multi level
+whenever we talk abt multiple inheritance we talk abt interface
+
+through interface we can solve diamond problem or can have muliple inheritance
+
+interface-whenever we design for any particular system, we define rules over there that these are the methods you have to implement but the business logic will 
+be yours. we just define the prototype,template then respective classes will be using those proyotype methods and they will define their own business logic 
+accordingly.
+
+through interface we will enforce child class to provide business logic
+top feautures/concept will declared inside interface and then classes implementing those interface have to implement those abstarct methods and provide business 
+logic
+
+in interface we cant have static prototype method because static method cant be override
+we cant have final prototype method because if abstract method is final it cant be override and what the purpose of declaring this method if no one can use
+in interface i can define variables and by default this variable are public static final
+we cannot create object of an interface
+top or up casting-child class object can be refered by parent class reference variable or parent interface reference variable
+
+after jdk 1.8:2 major changes
+interface can have static method with body
+interface can have one method with body but access modifier default:can have one default method with method body
+
+only method declaration, no method body,method prototype
+
+first design,visualize the scenerio and then implement in the form of coding
+

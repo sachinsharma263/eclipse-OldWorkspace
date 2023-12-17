@@ -1,0 +1,39 @@
+inheriting something from parent
+inheriting property from parent,there must be some relationship between you and that person and that relationship is parent and child
+getting some properties from parent but there are certain rules are defined.
+
+in java inheritance means inheriting properties from a parent class
+
+let say Car is a class having some properties like start,stop
+
+Bmw,Audi,Honda is also class and child of Car.
+we can say Bmw,Audi and Honda are Cars.All basic properties a Car have, Bmw audi and Honda also have
+
+Advantage of creating relationship btw Car and Bmw,Audi and Honda-->using inheritance is reusability
+if inheritance is not there than same repetative code we have to write-->those features inside Car we have again define in Bmw 
+what if Bmw is creating a seperate Car concept
+
+a child Bmw can inherit all properties from parent but at the same time can have its own properties.
+
+In inheritance a child can inherit properties from parent
+a parent cant inherit any property from child
+A grandchild can inherit from Grand parent
+Siblings cant inherit property from each other
+Multiple inheritance not allowed at class level,a class cant have 2 or more parents
+Diamnond problem-can be solved by interface
+
+Car can also have parent class i.e Vehicle
+
+Multiple inheritance- one child having 2 or more parent is multiple inheritance
+Multiple inheritance not possible at class level why?
+
+let us assume that multiple inheritance allowed at class level.Let assume class:parent 1 has run method,also class:parent 2 too has run method. 
+Child class inherited these two classes. Now,i created object of child class like Child obj=new Child() and using child class object i called run method.
+Now which class run method will be call either parent 1 or parent 2 by JVM.
+If compiler allowed multiple inheritance then while executing or at run time which class run method will be call? by JVM. Ambiquity will come,jvm will get 
+confused sure as JVM cannot take decesion on its own and at last will throw  run time exception so in order to prevent this java will restrict user and 
+doesnt allowed multiple inheritance.
+
+
+
+

@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/69805951/selenium-webdriver-driver-switchto-defaultcontent-method-is-not-switchin
+
+
+A user might wonder that what is the difference between driver.switchTo().parentFrame() and driver.switchTo().defaultContent() methods? They might look slightly similar in the first glance.
+
+driver.switchTo().defaultContent(): This will pass the control to the main document which contains the iframes.
+driver.switchTo().parentFrame(): This will pass the control to the immediate parent frame of the current frame.
+
+https://www.toolsqa.com/selenium-webdriver/handle-iframes-in-selenium/
+
+https://stackoverflow.com/questions/51395586/how-to-switch-from-child-iframe-to-main-iframe-and-again-from-main-iframe-to-nor

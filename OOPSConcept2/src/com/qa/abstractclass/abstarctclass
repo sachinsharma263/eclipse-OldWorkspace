@@ -1,0 +1,21 @@
+Abstract class
+abstract class can have both abstract and non abstract method. abstract method means prototype method or method declaration
+we cannot create object of abstract class but constructor can be created
+	
+when to use interface and abstract class?
+whenever we have to use partial abstraction,we will always use abstract class.abstract class more popular than interface because we have 
+more flexibilty.
+and whenever we required full abstraction then we will use interface,whenever we have to define very strict rule just like selenium webdriver,
+ enforce all these method should be implemented these browseres
+ 
+no abstract method-0% abstraction
+some abstract methods and some non abs methods-partial abstraction
+only abstract methods-100% abstraction
+
+interface is always 100 percent abstraction where we have only prototype methods
+
+we can achieved 0 to 100 percent abstraction through abstract classes
+	
+privacyPolicy and logo are two important business features which will remains same in all of the pages in application so we dnt want anyone override-make them
+final but header and footer might be different page wise so let each page define or give business logic
+whenever we have to define very strict rule just like selenium webdriver then we will use interface

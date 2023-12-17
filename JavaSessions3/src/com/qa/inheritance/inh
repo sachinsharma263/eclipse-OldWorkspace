@@ -1,0 +1,13 @@
+inheritance means inheriting something from your parent
+inheret property from parent class
+
+if we dnt create a relationship with car and bmw then disadvantage is
+1. Repetative code we have to write
+whatever feature include a car same we have to write inside a bmw
+2.what if bmw creating a seperate car concept
+
+Idealy bmw extends car
+whatever property a car have,same property given to bmw.
+bmw says fine i am inheriting some property from car but i own my own property too.
+
+parent cannot inheret from child.

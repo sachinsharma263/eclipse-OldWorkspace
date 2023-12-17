@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sanity suite">
+	<test name="Sanity test" verbose="2">
+    <classes>
+      <class name="com.qa.testngsessions.InvocationCount"/>
+      <class name="com.qa.testngsessions.PriorityTest"/>
+    </classes>
+  </test> 
+</suite> 

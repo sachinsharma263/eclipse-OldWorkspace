@@ -1,0 +1,15 @@
+package com.qa.superconcept;
+
+public class LoginPage extends Page {
+
+	String title;
+	
+	public LoginPage()
+	{
+		System.out.println("LoginPage--default const");
+	}
+	public LoginPage(String title)
+	{
+		System.out.println("LoginPage--param const");
+	}
+}

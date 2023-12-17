@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.listerners.TestJiraListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://trcrm.com/login/en"/>
+    <classes>
+      <class name="com.qa.test.SignUpPageTest">
+        <methods>
+          <include name="verifySignUpNowTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.test.SignUpPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

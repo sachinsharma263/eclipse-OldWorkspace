@@ -1,0 +1,1003 @@
+2022-05-08 14:03:45.025 DEBUG [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:88)] - debug
+2022-05-08 14:03:45.089 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.090 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.090 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.092 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.093 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.093 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.094 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.094 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.095 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.095 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.095 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.096 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.096 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.096 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.096 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.096 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.097 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.097 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.098 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.098 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.098 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.100 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.101 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.101 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.101 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.101 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.102 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.102 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.102 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.103 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.103 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.104 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.104 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.104 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.105 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.105 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.105 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.106 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.106 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.107 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.107 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.107 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.108 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.108 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.109 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.109 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.109 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.109 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.110 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.110 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.110 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.110 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.110 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.111 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.111 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.111 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.111 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.111 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.112 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.112 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.112 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.112 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.113 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.113 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.114 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.114 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.114 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.114 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.115 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.115 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.115 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.115 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.116 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.116 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.116 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.116 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.116 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.117 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.117 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.117 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.117 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.118 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.119 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.119 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.124 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.124 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.124 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.125 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.125 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.126 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.127 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.127 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.128 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.128 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.128 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.129 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.129 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.130 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.132 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.133 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.134 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.134 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.134 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.137 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.141 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.142 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.142 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.143 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.143 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.144 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.144 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.144 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.145 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.145 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.145 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.145 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.145 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.145 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.146 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.146 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.146 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.146 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.147 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.147 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.147 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.148 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.149 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.150 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.151 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.152 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.152 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.152 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.153 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.153 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.153 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.155 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.156 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.157 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.157 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.157 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.158 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.158 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.159 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.159 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.159 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.160 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.160 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.160 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.161 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.161 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.161 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.162 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.162 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.162 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.163 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.163 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.163 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.163 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.163 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.164 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.164 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.164 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.165 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.165 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.165 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.165 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.166 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.166 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.166 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.167 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.167 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.167 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.168 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.168 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.168 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.170 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.170 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.174 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.175 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.176 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.176 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.176 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.177 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.177 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.177 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.177 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.178 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.178 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.178 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.178 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.179 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.179 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.179 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.180 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.180 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.180 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.180 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.180 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.180 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.181 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.181 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.181 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.181 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.181 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.181 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.182 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.182 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.182 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.182 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.182 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.182 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.184 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.184 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.184 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.184 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.185 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.185 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.185 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.186 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.186 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.186 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.186 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.187 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.187 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.187 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.187 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.187 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.187 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.188 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.188 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.188 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.188 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.189 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.189 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.189 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.190 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.190 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.190 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.191 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.191 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.192 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.192 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.192 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.192 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.193 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.193 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.193 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.193 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.194 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.194 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.194 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.195 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.195 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.196 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.196 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.196 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.196 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.196 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.197 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.197 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.197 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.197 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.197 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.197 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.197 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.198 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.198 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.198 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.198 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.198 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.198 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.198 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.199 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.199 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.199 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.199 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.200 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.200 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.200 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.200 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.200 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.200 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.200 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.200 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.200 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.201 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.201 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.201 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.202 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.202 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.202 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.202 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.202 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.203 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.203 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.203 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.203 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.204 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.204 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.204 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.204 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.204 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.204 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.204 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.205 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.206 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.206 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.206 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.206 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.206 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.206 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.206 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.207 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.207 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.207 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.208 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.208 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.208 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.209 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.209 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.209 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.210 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.210 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.210 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.210 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.210 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.210 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.210 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.211 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.211 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.211 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.211 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.212 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.212 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.212 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.212 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.213 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.213 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.213 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.213 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.214 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.214 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.214 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.214 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.215 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.217 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.217 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.217 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.217 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.218 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.221 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.222 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.222 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.222 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.222 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.223 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.223 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.223 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.223 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.224 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.224 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.225 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.225 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.225 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.225 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.226 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.226 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.226 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.226 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.226 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.227 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.227 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.227 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.227 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.229 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.229 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.229 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.229 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.230 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.230 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.230 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.231 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.231 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.231 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.231 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.231 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.232 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.232 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.232 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.232 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.232 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.232 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.232 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.233 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.233 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.233 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.233 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.233 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.233 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.234 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.234 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.234 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.234 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.234 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.235 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.235 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.235 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.235 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.235 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.236 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.237 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.237 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.237 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.237 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.238 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.239 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.239 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.240 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.240 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.240 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.240 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.240 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.241 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.241 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.241 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.241 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.241 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.242 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.242 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.242 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.242 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.242 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.243 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.243 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.243 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.243 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.243 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.243 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.243 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.244 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.244 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.244 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.244 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.244 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.244 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.245 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.245 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.245 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.245 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.245 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.245 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.245 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.246 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.246 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.246 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.246 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.246 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.247 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.247 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.247 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.247 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.247 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.247 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.248 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.248 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.248 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.248 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.248 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.248 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.248 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.249 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.249 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.249 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.249 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.249 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.249 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.250 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.250 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.250 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.250 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.250 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.250 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.251 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.251 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.255 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.257 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.258 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.259 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.261 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.264 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.277 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.279 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.280 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.280 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.281 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.281 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.281 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.281 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.281 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.282 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.282 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.283 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.284 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.287 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.288 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.288 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.288 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.289 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.290 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.293 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.293 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.294 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.295 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.297 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.297 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.298 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.299 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.299 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.299 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.299 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.300 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.300 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.301 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.303 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.304 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.305 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.306 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.306 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.306 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.306 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.306 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.307 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.307 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.308 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.308 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.308 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.308 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.308 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.309 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.309 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.309 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.309 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.309 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.309 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.310 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.310 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.310 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.310 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.310 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.310 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.311 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.311 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.311 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.311 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.311 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.311 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.311 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.311 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.312 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.312 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.312 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.312 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.312 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.313 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.314 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.314 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.315 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.315 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.315 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.316 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.316 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.316 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.316 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.316 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.316 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.316 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.316 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.316 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.317 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.317 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.317 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.321 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.321 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.321 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.321 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.322 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.322 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.323 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.323 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.323 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.323 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.324 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.324 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.324 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.324 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.325 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.325 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.325 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.326 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.326 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.326 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.326 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.326 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.326 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.326 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.327 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.327 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.328 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.328 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.328 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.329 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.329 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.329 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.330 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.330 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.330 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.331 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.331 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.331 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.331 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.331 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.332 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.332 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.332 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.332 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.332 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.333 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.333 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.333 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.333 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.334 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.334 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.337 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.339 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.340 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.341 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.341 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.342 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.346 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.346 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.346 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.347 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.347 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.347 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.347 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.347 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.349 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.349 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.350 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.351 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.353 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.354 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.354 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.355 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.355 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.355 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.355 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.355 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.356 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.356 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.357 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.359 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.360 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.360 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.360 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.361 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.361 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.361 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.361 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.361 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.361 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.362 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.362 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.362 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.362 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.363 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.363 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.364 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.364 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.365 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.366 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.366 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.366 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.367 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.367 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.376 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.377 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.379 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.379 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.380 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.380 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.380 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.381 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.381 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.381 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.381 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.381 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.383 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.390 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.390 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.390 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.390 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.392 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.392 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.392 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.393 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.394 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.394 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.395 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.395 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.396 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.396 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.397 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.397 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.397 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.397 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.397 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.397 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.397 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.398 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.398 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.398 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.398 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.399 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.399 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.399 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.399 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.400 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.400 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.400 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.400 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.400 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.403 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.404 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.404 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.406 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.406 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.407 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.407 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.408 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.408 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.410 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.411 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.411 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.411 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.412 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.412 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.413 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.413 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.414 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.414 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.414 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.414 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.414 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.414 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.414 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.415 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.415 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.415 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.416 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.416 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.416 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.417 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.417 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.417 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.417 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.417 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.417 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.417 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.419 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.419 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.419 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.419 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.420 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.421 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.421 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.421 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.421 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.422 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.422 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.423 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.425 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.425 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.425 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.425 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.425 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.425 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.425 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.425 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.425 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.425 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.426 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.427 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.429 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.429 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.430 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.430 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.430 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.431 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.431 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.431 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.431 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.432 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.432 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.432 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.432 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.432 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.432 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.432 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.433 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.433 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.433 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.433 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.434 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.434 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.434 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.434 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.434 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.434 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.436 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.437 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.438 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.438 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.438 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.438 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.438 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.438 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.438 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.438 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.439 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.439 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.439 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.439 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.439 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.439 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.439 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.440 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.440 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.440 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.440 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.440 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.440 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.441 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.441 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.441 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.441 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.441 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.441 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.441 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.442 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.442 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.442 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.442 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.442 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.442 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.442 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.442 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.443 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.443 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.443 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.443 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.443 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.444 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.444 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.444 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.444 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.444 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.444 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.444 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.444 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.444 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.445 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.445 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.446 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.446 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.447 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.447 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.448 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.448 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.448 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.448 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.448 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.448 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.449 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.449 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.449 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.449 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.449 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.449 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.449 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.450 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.453 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.454 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.454 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.456 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.457 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.457 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.457 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.458 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.459 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.459 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.459 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.459 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.459 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.459 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.459 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.459 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.460 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.460 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.460 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.460 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.460 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.460 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.460 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.460 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.460 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.461 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.461 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.461 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.461 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.462 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.462 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.463 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.465 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.465 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.467 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.467 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.467 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.467 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.467 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.468 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.468 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.468 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.468 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.468 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.470 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.470 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.471 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.471 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.471 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.471 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.471 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.471 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.472 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.472 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.472 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.472 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.472 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.473 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.473 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.473 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.473 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.473 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.473 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.474 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.474 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.474 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.475 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.475 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.475 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.475 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.475 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.475 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.475 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.475 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.476 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.476 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.476 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.477 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.477 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.477 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.477 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.477 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.478 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.478 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.478 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.478 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.479 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.479 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.479 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.479 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.479 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.479 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.480 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.480 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.480 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.480 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.480 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.481 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.481 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.481 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.481 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.481 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.482 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:90)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.482 WARN [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:91)] - Starting test cases execution
+2022-05-08 14:03:45.482 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:93)] - ****************************** Starting test cases execution  *****************************************
+2022-05-08 14:03:45.483 INFO [TestNG-tests-1] [com.qa.tests.LoginPageTest2.verifySignUpNowLinkTest(LoginPageTest2.java:94)] - ****************************** verifySignUpNowLinkTest *****************************************

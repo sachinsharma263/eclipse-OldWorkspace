@@ -1,0 +1,38 @@
+package com.qa.stringconcept;
+
+public class StringBufferConcept {
+
+	public static void main(String[] args) {
+
+		StringBuffer sb = new StringBuffer("naveen");
+		System.out.println(sb.capacity());
+		
+		System.out.println(sb.length());
+		
+		StringBuffer sb2 = new StringBuffer();
+		System.out.println(sb2.capacity());
+		
+		sb2.append("deepak");
+		System.out.println(sb2);
+		System.out.println(sb2.capacity());
+		
+		sb2.append("java coding");
+		System.out.println(sb2);
+		System.out.println(sb2.capacity());
+		
+		System.out.println(sb2.length());
+		//System.out.println(sb2.reverse());
+		
+		System.out.println(sb2.charAt(0)+" "+sb2.charAt(4));
+		
+		System.out.println(sb2.indexOf("p"));
+		System.out.println(sb2.indexOf("p", 2));
+		
+		System.out.println(sb2.delete(2, 4));
+		
+		
+		
+		
+	}
+
+}

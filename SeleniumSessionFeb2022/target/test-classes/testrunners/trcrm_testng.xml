@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="trcrm suite" thread-count="2" parallel="tests">
+	<test name="login test" verbose="2">
+		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="url" value="https://trcrm.com/login/en"></parameter>
+		<parameter name="username" value="sachinsharma263@gmail.com"></parameter>
+		<parameter name="password" value="swift2994"></parameter>
+		<classes>
+			<class name="com.qa.tests.LoginPageTest">
+				<methods>
+					<exclude name="signUpNowLinkTest"></exclude>
+				</methods>
+
+			</class>
+
+		</classes>
+	</test>
+	<test name="signup test" verbose="2">
+	<parameter name="browser" value="firefox"></parameter>
+		<parameter name="url" value="https://trcrm.com/login/en"></parameter>
+		<classes>
+			<class name="com.qa.tests.SignUpTest" />
+
+		</classes>
+	</test>
+
+
+
+</suite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="trcrm regression test Suite" thread-count="2"
+	parallel="tests">
+	<listeners><listener class-name="com.qa.listeners.CapturedScreenshot"></listener></listeners>
+	<test name="Login Test" verbose="2">
+		
+
+		<classes>
+			<class name="com.qa.tests.LoginPageTest2">
+
+			</class>
+
+		</classes>
+	</test>
+	<test name="SignUp Test" verbose="2">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.qa.tests.SignUpTest"></class>
+		</classes>
+
+	</test>
+</suite> 

@@ -1,0 +1,54 @@
+package com.qa.javasessions;
+
+public class FunctionsInJava {
+
+	public static void main(String[] args) {
+
+		FunctionsInJava obj=new FunctionsInJava();
+		obj.test();
+		
+		System.out.println(obj.getTrainername());
+		
+		int days=obj.getTotalDays();
+		System.out.println(days);
+		
+		String ar[]=obj.getStudent();
+		for(String s:ar)
+		{
+			System.out.println(s);
+		}
+		System.out.println(5+5);
+		System.out.println("naveen");
+	}
+
+	// 1. no input parameter and no return
+	public void test() {
+		System.out.println("test method");
+	}
+
+	// 2. no input but some return
+	public String getTrainername() {
+		return "naveen";
+	}
+
+	public int getTotalDays() {
+		return 7;
+	}
+
+	public String[] getStudent() {
+		String studentName[] = new String[3];
+		studentName[0] = "naveen";
+		studentName[1] = "bhawna";
+		studentName[2] = "mukesh";
+
+		return studentName;
+	}
+	// 3. some input and some return
+	public int sum(int a,int b) {
+		return a+b;
+	}
+	// 4. some input and no return
+	public void printTrainerName(String name) {
+		System.out.println(name);
+	}
+}

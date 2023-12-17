@@ -1,0 +1,14 @@
+package com.qa.javasessions;
+
+import java.io.PrintStream;
+
+public class SOPConcept {
+
+	static PrintStream out;
+
+	public static void main(String[] args) {
+
+		SOPConcept.out.print(true);
+		SOPConcept.out.print(10);
+	}
+}

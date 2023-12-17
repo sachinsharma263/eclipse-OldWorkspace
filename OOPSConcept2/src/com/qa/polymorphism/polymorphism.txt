@@ -1,0 +1,28 @@
+polymorphism is nothing but multiple form of anything
+Polymorphism-poly means many and morphism means forms
+forms-functionality/many behaviour of same thing
+in java 2 types of polymorphism or in java polymorphism can be achived by 2 ways
+1.compile time polymorphism also called method overloading/early binding/static binding
+2. runtime polymorphism-also called method overriding/late binding/dynamic binding
+polymorphism is implemented at method level only/polymorphism applied at method level
+polymorphism=many+forms
+
+Inheritance applied at class level
+
+method signature-combination of method name+parameter list
+add(int a)
+
+Method Overloading-within the same class when we have different methods with the same name but
+different parameters
+different types of parameter
+different sequence of parameter
+method overloading is also called compile time polymorphism because at time time compiler decides which method to call, compiler is not confused
+super happy in taking decesion which method to call.At compile time compiler binds method against statement to call method.
+
+when we have multiple methods but with same name but having different method signature is knows as method overloading
+
+ Method Overriding- it can be achieved during inheritance When a method in a subclass has the same name, same parameters or signature, 
+and same return type(or sub-type) as a method in its super-class, then the method in the subclass is said to override the method in the super-class.
+ Method overriding is one of the way by which java achieve Run Time Polymorphism.At run time java will decide which method to call,it is also called 
+ late binding/dynamic binding
+

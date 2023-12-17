@@ -1,0 +1,54 @@
+class members- variables+methods
+
+in a class we have variables and methods. when we encapsulate variables within in the method is called encapsulation.
+we are encapsulating variables inside the methods.
+
+inside class A{
+we have 3 variables v1,v2 and v3
+3 methods:m1,m2 and m3
+}
+let say B is a user and he is bother about only one method m1 for launching browser
+further launching browser method calling several other methods ,services but user is nt bother abt other method.
+user says give me one method where i click and browser gets open,user nt bother abt internal implementation.
+ 
+ from system point view also why to show other methods to user,what he will going to do with this methods.
+ 
+ As a user i am not bother abt how my car clutch working,brake ,gear working, frm system and user point of viw i need some ui,some method to shift gears thats all.
+ 
+ give me a stering method,give me a gear knob,give me accelator,brake method so that i can drive the car,internal implementation i am nt bother.
+ 
+ same thing in OOPS we have encapsulation feature where in my class i want to hide the implementation,dnt expose implementation to the user ,user is also nt bother abt it 
+ and frm system point of view is is nt required.
+ 
+ This concept is actually called an encapsulation.
+ 
+ Now,how to use in the form of coding
+ i will do one thing i will create one class
+ 
+ 3 ways to initialize class variables
+ 1.create object and then objectrefernce.variable
+ 2.by constructor
+ 3. by using getter and setter
+ Getter and setter are two special methods for each class variable
+ first you set and then get
+ 
+ this keyword-->refer to current class object
+ 
+ encapsulation  is what ?
+ there is 2 or 3 concept here-->whenever you have private implementation which you dnt want to expose dire ctly to the user,i want to hide my implementation in that
+ case you can hide by declaring private but you can give indirect access/you can create public layer on top of that in the form of getter and setter
+ we created wrappers -method in which we wrapped private variable inside public method
+ user cannot directly access private implementation but indirectly can access
+ 
+ so in encapsulation -we can have some private variable inside class,we have encapsulate these variables inside methods-public layer
+ 
+ In company class we have encapsulate our variables within methods,where we have public +private variables where we encapulsate these variables
+ within methods. 
+ 
+ Now can we encapsulate methods or not?yes we can 
+ now BrowserUtil class we have methods.
+ 
+ Take an example of any library in the world,they will not exposed all methods to the user
+ 
+ encapsulation-when you encapsulate data members(variable+method) with a capsule.
+( Private/public variable+private/public method) encapsulated with a public layer so that user can access this public layer.

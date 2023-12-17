@@ -1,0 +1,18 @@
+abstract class have both abstract and non abstract methods
+abstract method is prototype method
+
+we cannot create object of an abstract class
+abstract class can be inherit but cannot instatiate, we can create constructor for abstract class which will be called when we create object of sub class
+subclass constrcutor will be called,jvm will see parent child relationship,before executing subclass constrcutor,it will call parent class constructor
+
+no abs method-0% abstraction
+some abs method + some non abs method-partial abstraction
+all abs method-100% abstraction
+	
+we can achieve 0 to 100 % abstraction through abstract class
+but interface is 100 % abstraction
+
+when to use interface and when to use abstrtact class
+whenever we have to use partial abstraction then use abstract class because we have more flexibility
+in interface we have fully abstraction we cant give any business logic
+whenever we have to define very strict rule we have to use interface

@@ -1,0 +1,9 @@
+package com.qa.abstractclass;
+
+public abstract class Page {
+
+	public abstract void header();
+	
+	public abstract void footer();
+	
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [sanity suite]">
+  <test thread-count="5" name="sanity test(failed)">
+    <classes>
+      <class name="com.qa.TestNGSessions.DependsOnMethod">
+        <methods>
+          <include name="homePageTest"/>
+          <include name="searchTest"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.qa.TestNGSessions.DependsOnMethod -->
+    </classes>
+  </test> <!-- sanity test(failed) -->
+</suite> <!-- Failed suite [sanity suite] -->

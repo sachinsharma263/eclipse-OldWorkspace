@@ -1,0 +1,12 @@
+package com.qa.superconcept;
+
+public class Page {
+
+	String header;
+	
+	
+	public Page(String header)
+	{
+		System.out.println("Page--param const");
+	}
+}
